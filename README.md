@@ -50,3 +50,5 @@ static contextTypes = {
 
 ## demo
 
+![image](https://github.com/satomiyoyi/react-component-communication-demo/blob/master/react-component-communication.png)
+
